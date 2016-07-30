@@ -30,33 +30,33 @@ h1:hover {
 	margin: 0px 0px 40px 0px;
 }
 .one {
-	background-image: url(../Images/homePage/html.png);
+	background-image: url(../Images-tuan/homePage/html.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .two {
-	background-image: url(../Images/homePage/css.png);
+	background-image: url(../Images-tuan/homePage/css.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .three {
-	background-image: url(../Images/homePage/js.png);
+	background-image: url(../Images-tuan/homePage/js.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .four {
-	background-image: url(../Images/homePage/canada-flag.jpg);
+	background-image: url(../Images-tuan/homePage/canada-flag.jpg);
 	background-size: cover;
 }
 .five {
-	background-image: url(../Images/homePage/russian-flag.jpg);
+	background-image: url(../Images-tuan/homePage/russian-flag.jpg);
 	background-size: cover;
 }
 .six {
-	background-image: url(../Images/homePage/american-flag.png);
+	background-image: url(../Images-tuan/homePage/american-flag.png);
 	background-size: cover;
 }
 .event:hover {
